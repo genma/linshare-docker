@@ -6,7 +6,7 @@
 * Docker can be installed with the following lines on most distros :
 
 ```bash
-$ curl -sSL https://get.docker.com | sudo curl
+$ curl -sSL https://get.docker.com | sudo sh
 ```
 
 * docker-compose can be installed as :
